@@ -3,3 +3,11 @@ div {
   width: 300px;
   background: #cc5;
 }
+
+.foot {
+  height: 40px;
+  width: 40px;
+  background: #ccc;
+  border-radius: 40px;
+  border: 15px solid #999;
+}
