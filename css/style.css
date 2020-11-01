@@ -11,3 +11,11 @@ div {
   border-radius: 40px;
   border: 15px solid #999;
 }
+
+.torso {
+  height: 0;
+  width: 140px;
+  border-top: 300px solid #bc6;
+  border-left: 75px solid transparent;
+  border-right: 75px solid transparent;
+}
