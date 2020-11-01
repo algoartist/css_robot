@@ -21,3 +21,9 @@ div {
   border-right: 75px solid transparent;
   border-radius: 20px 20px 100px 100px;
 }
+
+.brain {
+  background-color: #cc5;
+  height: 150px;
+  width: 150px;
+}
